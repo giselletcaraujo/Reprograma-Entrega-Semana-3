@@ -1,4 +1,5 @@
 # Aula 3 - Funções, escopo e loops
+![coding](./img/Coding.png)
 -----
 
 Resolução de Exercícios utilizando:  
